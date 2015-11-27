@@ -7,7 +7,7 @@
 
 	<parent>
 		<groupId>com.ibm.websphere.pbw</groupId>
-		<artifactId>pbw-sample</artifactId>
+		<artifactId>pbw-monolith</artifactId>
 		<version>8.0</version>
 	</parent>
 

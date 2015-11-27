@@ -10,10 +10,12 @@
 
   <parent>
     <groupId>com.ibm.websphere.pbw</groupId>
-    <artifactId>pbw-sample</artifactId>
+    <artifactId>pbw-monolith</artifactId>
     <version>8.0</version>
   </parent>
-
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
   <dependencies>
         <dependency>
             <groupId>com.ibm.websphere.pbw</groupId>
